@@ -8,7 +8,7 @@
    
 3. Open the Project:
    Set the input file and give.
-   Open solution.ipynb in jupyter notebook and run all the cells.
+   Open soln.ipynb in jupyter notebook and run all the cells.
 
 4. Retrieve the Final Output:
    The output will be saved as output.xlsx.
